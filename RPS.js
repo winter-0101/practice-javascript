@@ -43,7 +43,7 @@ function RPS(){
 
     let enemyImage = document.createElement("img");
         enemyImage.alt ="choice";
-        enemyImage.style.width ="200px";
+        enemyImage.style.width ="300px";
         enemyImage.style.height ="200px";
 
 
