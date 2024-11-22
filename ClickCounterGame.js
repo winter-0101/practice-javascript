@@ -9,10 +9,10 @@ function ClickCounterGame(){
 
     let counter = document.createElement("p");
     counter.textContent = count;
-
-    button1.addEventListener("click",function(){
+button1.addEventListener("click",function(){
         count++;
         counter.textContent = count;
+    
     })
 
     button2.addEventListener("click",function(){
